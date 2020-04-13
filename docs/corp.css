@@ -1,0 +1,52 @@
+
+header {
+	height:500px;
+	position: relative;
+	z-index: -1;
+	top: 30px;
+	background-image: url("../images/1.png");
+    background-repeat: no-repeat;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+	background-repeat:no-repeat;
+    background-size: cover; 
+	width:100%;
+	
+}
+
+
+body {
+	background-image: url("../images/5.jpg");
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+	background-repeat:no-repeat;
+    background-size: cover; 
+}
+
+footer{
+	text-align: center;
+	color: white;
+	font-size: 15px;
+	font-family: 'Kaushan Script';
+}
+
+.central{
+	position: absolute;
+    left: 0;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+}
+
+.continut{
+	position: relative;
+	z-index: -1;
+	left: 0;
+	right: 0;
+	font-family: 'Kaushan Script';
+	font-size: 25px;
+	color:#fb5442;
+}
+
+
+

@@ -1,0 +1,15 @@
+table.art{
+	
+	color:white;
+	margin-left: 150px;
+	margin-right:150px;
+}
+
+th.linie{
+	border-style:none none solid none;
+	border-bottom-color:#fb5442;
+}
+.font-art{
+	font-family: 'Times New Roman';
+	font-size: 25px;
+}

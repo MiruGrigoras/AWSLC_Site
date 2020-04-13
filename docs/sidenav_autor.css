@@ -1,0 +1,32 @@
+#mySidenav a {
+    position: fixed;
+	position: center;
+    left: -120px;
+    transition: 0.3s;
+    padding: 20px;
+    width: 130px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+#mySidenav a:hover {
+    left: -10px;
+}
+
+#port {
+    top: 200px;
+    background-color: #4CAF50;
+}
+
+#bio {
+    top: 280px;
+    background-color: #2196F3;
+}
+
+#even {
+    top: 360px;
+    background-color: #f4d942;
+}
+

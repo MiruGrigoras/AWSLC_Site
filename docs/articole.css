@@ -1,0 +1,110 @@
+/**{
+	margin: 0px;
+	padding: 0px;
+}*/
+p{ color: #fb5442;} 
+
+.umbra{
+	box-shadow:5px 5px 5px #fcae1d;
+	
+}
+.margini{
+	margin: 40px 20px 40px 20px;
+}
+
+.back-articol{
+	color: #fb5442;
+	background-image:url("../images/back-articol.jpg");
+	background-repeat:no-repeat;
+}
+
+.back-img{
+	background-image:url("../images/back-img-st.jpg");
+	background-repeat:no-repeat;
+}
+
+
+.opacitate{
+	opacity:0.6;
+	-webkit-backface-visibility:hidden;
+}
+
+.buton{
+	border:none;
+	display:inline-block;
+	outline:0;
+	padding:6px 16px;
+	vertical-align:middle;
+	overflow:hidden;
+	text-decoration:underline;
+	color:#fb5442;
+	background-color:#000;
+	text-align:center;
+	cursor:pointer;
+	white-space:nowrap;
+}
+.dim-buton{
+	padding:12px 24px;
+}
+.back-buton{
+	background-color: black;
+}
+.margine-buton{
+	border:1px solid black;
+}
+.margine-buton-acoperit:hover{
+	border-color:#ccc;
+}
+
+.img-articol{
+	height:500px;
+	width:500px;
+}
+
+.coloanarticol{
+	top:0;
+	bottom:0;
+	padding:0;
+	
+}
+
+.carnati
+{
+	padding:0;
+	margin:0;
+	border:0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

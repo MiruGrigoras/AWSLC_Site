@@ -1,0 +1,52 @@
+
+.navigare{
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	right: 0; 
+	width: 100%;
+	font-size: 30px;
+	font-family: 'Kaushan Script';
+}
+
+	
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2f3f6f;
+}
+
+li {float: left;}
+
+li a {
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 15px 50px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {background-color: #233054;}
+
+.active {
+    background-color: #4CAF50;
+}
+			
+a:link { 
+	text-decoration: none;
+	color: #fb5442;
+}
+
+a:visited {color: #fb5442;}
+
+a:hover {
+	text-decoration: underline;
+	color: #fb5442;
+}
+
+a:active {color: white;}
+
+
